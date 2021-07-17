@@ -6,7 +6,8 @@
 <sub>may be a time traveler</sub>
 
 <sub>Also not related in any way to @tinytinfoil on twitter, I had this name *wayyyyyy* before him.</sub>
-<sub>Don't belive me? here's [my old roblox profile](https://www.roblox.com/users/120132262/profile)</sub>
+
+<sub>Don't believe me? here's [my old roblox profile](https://www.roblox.com/users/120132262/profile)</sub>
 <!---
 TinyTinfoil/TinyTinfoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
