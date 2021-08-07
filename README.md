@@ -1,4 +1,4 @@
-- Hi, I’m TinyTinfoil
+- Hi, I’m TinyTinfoil (not related to the one on twitter/reddit)
 - I’m interested in ML, AI, Rust and WebASM, and computer modeling (both 3d modeling and physics, chemistry, fluid, etc. sims)
 - I’m currently learning Tensorflow and revisiting Python (esp. Python 3)
 - "How to reach me?" ... ya don't!
