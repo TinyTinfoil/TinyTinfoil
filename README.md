@@ -1,7 +1,7 @@
 - Hi, I’m TinyTinfoil (not related to the one on twitter/reddit)
-- I’m interested in ML, AI, Rust and WebASM, and computer modeling (both 3d modeling and physics, chemistry, fluid, etc. sims)
-- I’m currently learning Tensorflow and revisiting Python (esp. Python 3)
-- "How to reach me?" ... ya don't!
+- I’m interested in ML, AI, Rust and WebASM, and computer modeling (both 3d modeling and physics, chemistry, fluid, etc. sims), though I view these as tools to solve problems, and not things to be solved in their own right.
+- I’m currently learning Tensorflow and revisiting Python, plus doing some stuff in Unity for NHS Coding Club.
+- "How to reach me?" – Make a pull request on my github.io site and I'll find it. 
 
 <sub>may be a time traveler</sub>
 
