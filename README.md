@@ -1,6 +1,6 @@
 - Hi, I’m TinyTinfoil (not related to the one on twitter/reddit)
-- I’m interested in ML, AI, Rust and WebASM, and computer modeling (both 3d modeling and physics, chemistry, fluid, etc. sims), though I view these as tools to solve problems, and not things to be solved in their own right.
-- I’m currently learning Tensorflow and revisiting Python, plus doing some stuff in Unity for NHS Coding Club.
+- I’m interested in Javascript, Elasticsearch, rclone, PWAs, and timeboxing/productivity software and systems.
+- I’m currently learning React and revisiting nginx, plus porting some stuff to React Native for an accessibility project of mine.
 - "How to reach me?" – Make a pull request on my github.io site and I'll find it. 
 
 <sub>may be a time traveler</sub>
