@@ -1,7 +1,7 @@
 - Hi, I’m TinyTinfoil 
 - I’m interested in Javascript, Elasticsearch, rclone, PWAs, and timeboxing/productivity software and systems.
 - I’m currently learning React and revisiting nginx, plus porting some stuff to React Native for an accessibility project of mine.
-- "How to reach me?" – Make a pull request on my github.io site and I'll find it. 
+- "How to reach me?" – I'm still trying to figure that out. 
 
 <!--- <sub>may be a time traveler</sub>
 <sub>Also not related in any way to @tinytinfoil on twitter, I had this name *wayyyyyy* before him.</sub>
