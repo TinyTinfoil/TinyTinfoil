@@ -1,6 +1,6 @@
 - Hi, I’m TinyTinfoil 
-- I’m interested in firmware, hardware and how they combine with software and systems. Especially for low noise systems.
-- I’m currently trying to find a summer internship for 2025 in electrical engineering.
+- I’m interested in firmware, hardware and how they combine with software and systems. Especially for low noise and analog systems.
+<!--- I’m currently trying to find a summer internship for 2025 in electrical engineering. -->
 - "How to reach me?" – I can be found on [Mastodon](https://mastodon.social/@TinyTinfoil)
 <!--- <sub>may be a time traveler</sub>
 <sub>Also not related in any way to @tinytinfoil on twitter, I had this name *wayyyyyy* before him.</sub>
